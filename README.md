@@ -13,3 +13,22 @@
 本アプリに関するお問い合わせは、以下のメールアドレスまでお願いいたします。
 
 - メールアドレス:ronnao0311@gmail.com
+
+
+# BucketList Folders Privacy Policy
+
+## Collection of User Information
+This app does not collect any personal information from users.
+
+## Use of User Information
+
+This app does not use any personal information from users.
+
+## Provision of User Information to Third Parties
+
+This app does not provide any personal information from users to any third parties.
+
+## Contact
+
+If you have any questions about this app, please contact us at the email address below:
+Email: ronnao0311@gmail.com
