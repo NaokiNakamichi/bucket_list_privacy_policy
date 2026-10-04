@@ -1,34 +1,79 @@
 # やりたいことリスト bucket list プライバシーポリシー
 
-## 利用者情報の取得
-本アプリが利用者の個人情報を取得することはありません。
+本ポリシーは、スマートフォンアプリ「やりたいことリスト bucket list」（以下「本アプリ」）が、利用者の情報をどのように取り扱うかを定めるものです。
 
-## 利用者情報の利用
-本アプリが利用者の個人情報を利用することはありません。
+## 1. 基本的な考え方
 
-## 利用者情報の第三者提供
-本アプリが利用者の個人情報を第三者に提供することはありません。
+本アプリに登録したやりたいこと・フォルダ・写真は、原則として利用者の端末内にのみ保存され、利用者が共有・バックアップなどの機能を使わない限り、端末の外へ送信されることはありません。本アプリは、利用者の氏名・住所・電話番号などの連絡先情報を取得しません。
 
-## お問い合わせ先
-本アプリに関するお問い合わせは、以下のメールアドレスまでお願いいたします。
+## 2. 共有機能を使った場合
 
-- メールアドレス:ronnao0311@gmail.com
+フォルダを共有すると、そのフォルダ内のやりたいこと（タイトル・メモ・URL・やりたい度・達成状況）と、利用者が設定した表示名・アバターがクラウド（Google Firebase）に保存され、同じフォルダのメンバーの間で共有されます。写真は共有されません。
 
+これらのデータは、アプリが自動で発行する匿名の識別子に紐づけて保存され、利用者個人を特定する情報とは結び付きません。
+
+## 3. バックアップ機能を使った場合
+
+「バックアップと復元」でバックアップを実行すると、共有していないフォルダとやりたいこと（プレミアムの場合は写真を含む）がクラウド（Google Firebase）の利用者専用の領域に保存されます。バックアップは自動では行われず、利用者本人以外はアクセスできません。
+
+共有機能と同じく、これらのデータは匿名の識別子に紐づけて保存され、利用者個人を特定する情報とは結び付きません。機種変更時の引き継ぎのために Apple または Google のアカウントを連携した場合、そのアカウントの識別子は同じ利用者であることの確認にのみ使用します。
+
+共有・バックアップのデータと匿名の識別子は、プロフィール画面の「アカウントを削除」からいつでも削除できます。
+
+## 4. 広告とエラー情報
+
+無料版では Google AdMob による広告を表示します。広告の配信にあたり、端末の広告識別子などが Google に送信されることがあります。プレミアム機能をご購入いただくと広告は表示されません。
+
+また、本アプリの品質向上のため、Firebase Analytics および Firebase Crashlytics により、利用状況（画面の表示状況、端末の機種、OS やアプリのバージョン）とクラッシュ発生時の情報を収集します。これらの情報は利用者個人を特定するものではありません。
+
+各サービスにおける情報の取り扱いは、Google のプライバシーポリシー（https://policies.google.com/privacy）をご確認ください。
+
+## 5. お問い合わせ先
+
+本アプリおよび本ポリシーに関するお問い合わせは、以下のメールアドレスまでお願いいたします。
+
+- メールアドレス: ronnao0311@gmail.com
+
+制定日: 2024 年 4 月 4 日
+改定日: 2026 年 10 月 4 日
+
+---
 
 # BucketList Folders Privacy Policy
 
-## Collection of User Information
-This app does not collect any personal information from users.
+This policy describes how the mobile app "BucketList Folders" (the "App") handles your information.
 
-## Use of User Information
+## 1. Overview
 
-This app does not use any personal information from users.
+Your wishes, folders, and photos are stored only on your device unless you choose to use features such as sharing or backup. The App does not collect your name, address, phone number, or other contact details.
 
-## Provision of User Information to Third Parties
+## 2. When You Use Sharing
 
-This app does not provide any personal information from users to any third parties.
+When you share a folder, the wishes in it (title, notes, URL, priority, and completion status) and the display name and avatar you set are stored in the cloud (Google Firebase) and shared among the members of that folder. Photos are not shared.
 
-## Contact
+This data is stored under an anonymous identifier that the App generates automatically, and is not linked to any information that identifies you personally.
 
-If you have any questions about this app, please contact us at the email address below:
-Email: ronnao0311@gmail.com
+## 3. When You Use Backup
+
+When you run a backup from "Backup & Restore", your non-shared folders and wishes (including photos if you have Premium) are saved to an area in the cloud (Google Firebase) dedicated to you. Backups are never automatic, and no one but you can access them.
+
+As with sharing, this data is stored under an anonymous identifier and is not linked to any information that identifies you personally. If you link an Apple or Google account to carry your data over to a new device, that account's identifier is used only to confirm that you are the same user.
+
+You can delete your sharing and backup data together with the anonymous identifier at any time from "Delete account" on the Profile screen.
+
+## 4. Advertising and Error Reports
+
+The free version shows ads served by Google AdMob. To serve ads, your device's advertising identifier and similar data may be sent to Google. Ads are not shown after you purchase Premium Features.
+
+To improve the App's quality, we also use Firebase Analytics and Firebase Crashlytics to collect usage data (screen views, device model, OS and App versions) and information at the time of a crash. This data does not identify you personally.
+
+For details on how Google handles this information, see Google's Privacy Policy (https://policies.google.com/privacy).
+
+## 5. Contact
+
+If you have any questions about the App or this policy, please contact us at the email address below.
+
+- Email: ronnao0311@gmail.com
+
+Effective date: April 4, 2024
+Last updated: October 4, 2026
