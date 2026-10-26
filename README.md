@@ -28,14 +28,37 @@
 
 各サービスにおける情報の取り扱いは、Google のプライバシーポリシー（https://policies.google.com/privacy）をご確認ください。
 
-## 5. お問い合わせ先
+<a id="delete-account"></a>
+
+## 5. アカウントとデータの削除
+
+「やりたいことリスト bucket list」（開発者: Naoki Nakamichi）のアカウントと関連データは、アプリから削除できます。
+
+1. アプリの「設定」から「プロフィール」を開く
+2. 「アカウントを削除」をタップし、確認画面で削除する
+
+削除すると、次のデータがすぐに削除されます。
+
+- クラウドのバックアップ（写真を含む）
+- 表示名・アバター・連携した Apple / Google アカウントの識別子・匿名の識別子
+- 共有フォルダのメンバー情報（最後のメンバーだったフォルダは、共有中の内容ごと削除）
+
+端末内のやりたいこと・フォルダは削除されません。次のデータは、個人を特定しない形で以下の期間保持されます。
+
+- クラッシュ情報（Firebase Crashlytics）: 最大 90 日
+- 利用状況（Firebase Analytics）: 最大 14 か月
+- お問い合わせの内容: 対応に必要な期間（メールでのご依頼により削除します）
+
+アプリを削除済みなどで操作できない場合は、下記のメールアドレスまでご連絡ください。
+
+## 6. お問い合わせ先
 
 本アプリおよび本ポリシーに関するお問い合わせは、以下のメールアドレスまでお願いいたします。
 
 - メールアドレス: ronnao0311@gmail.com
 
 制定日: 2024 年 4 月 4 日
-改定日: 2026 年 10 月 4 日
+改定日: 2026 年 10 月 26 日
 
 ---
 
@@ -69,11 +92,34 @@ To improve the App's quality, we also use Firebase Analytics and Firebase Crashl
 
 For details on how Google handles this information, see Google's Privacy Policy (https://policies.google.com/privacy).
 
-## 5. Contact
+<a id="delete-account-en"></a>
+
+## 5. Deleting Your Account and Data
+
+You can delete your account and related data for "BucketList Folders" (developer: Naoki Nakamichi) from within the App.
+
+1. Open "Settings" and then "Profile"
+2. Tap "Delete account" and confirm
+
+The following data is deleted immediately:
+
+- Your cloud backup (including photos)
+- Your display name, avatar, linked Apple / Google account identifier, and anonymous identifier
+- Your membership in shared folders (folders where you were the last member are deleted along with their shared content)
+
+Wishes and folders on your device are not deleted. The following data is retained in a form that does not identify you personally, for the periods below:
+
+- Crash reports (Firebase Crashlytics): up to 90 days
+- Usage data (Firebase Analytics): up to 14 months
+- Feedback you sent: as long as needed to respond (deleted on request by email)
+
+If you can no longer use the App, please contact us at the email address below.
+
+## 6. Contact
 
 If you have any questions about the App or this policy, please contact us at the email address below.
 
 - Email: ronnao0311@gmail.com
 
 Effective date: April 4, 2024
-Last updated: October 4, 2026
+Last updated: October 26, 2026
